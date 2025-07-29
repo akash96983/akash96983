@@ -28,15 +28,15 @@
 
 ## 📌 Featured Projects
 
-### 🏀 [Sporty Spaces](https://github.com/akash96983/sporty-spaces)
+### 🏀 [Sporty Spaces](https://sporty-spaces.vercel.app/)
 A MERN stack platform to rent and book playgrounds with scheduling via SimplyBook.  
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, SimplyBook API
 
 ---
 
-### 👶 [Sheshya – Kids Learning Game](https://github.com/akash96983/sheshya-kids-game)
+### 👶 [Sheshya – Kids Learning Game](https://drive.google.com/file/d/1zvkN-BnI1WGqbeZdBUeOBkT-9be6jS5y/view)
 Fun, interactive game designed to help kids learn using visuals and sounds.  
-**Tech:** JavaScript, HTML5 Canvas, CSS, Audio APIs
+**Tech:** flutter, Dart, CSS, Audio APIs
 
 ---
 
